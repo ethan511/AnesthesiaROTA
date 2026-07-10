@@ -1,4 +1,3 @@
-import React from 'react';
 import { useState, useEffect, useMemo, useRef, createContext, useContext } from "react";
 import {
   Sun, Moon, Clock, Phone, X, Check, CalendarDays, List as ListIcon, StickyNote,
